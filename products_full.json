@@ -28,7 +28,7 @@
         },
         {
           "id": "X01-B",
-          "nameEN": "ENHANCED REFORMER",
+          "nameEN": "SEPARATE REFORMER",
           "nameJP": "エンハンスドリフォーマー",
           "desc": "ヘッドレスト・ショルダーブロック付き。メープル材フレーム。",
           "p1": "$1,052",
@@ -162,8 +162,8 @@
       "products": [
         {
           "id": "X02-A",
-          "nameEN": "HALF TOWER REFORMER X02-A",
-          "nameJP": "HALF TOWER REFORMER X02-A",
+          "nameEN": "HALF TOWER  X02-A",
+          "nameJP": "HALF TOWER  X02-A",
           "desc": "リフォーマー＋ハーフタワー。メープル材、フルスプリングシステム。",
           "p1": "$1,154",
           "p2": "$854",
@@ -207,7 +207,7 @@
         },
         {
           "id": "X02-C",
-          "nameEN": "PREMIUM HALF TOWER",
+          "nameEN": "SEPARATE HALF TOWER",
           "nameJP": "プレミアム・ハーフタワー",
           "desc": "プレミアム・ハーフタワー。高品質パッド、フルアクセサリー付属。",
           "p1": "$1,350",
