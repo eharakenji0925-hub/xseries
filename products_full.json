@@ -69,7 +69,7 @@
           ]
         },
         {
-          "id": "—",
+          "id": "X01-D",
           "nameEN": "HARD MAPLE REFORMER",
           "nameJP": "3.5mm 輸入ハードメープル",
           "desc": "3.5mm 輸入ハードメープル材使用。",
@@ -91,8 +91,8 @@
           ]
         },
         {
-          "id": "—",
-          "nameEN": "V03 (4:6)",
+          "id": "X01-E V03",
+          "nameEN": "VERTICAL REFORMER 03 (4:6)",
           "nameJP": "4対6の比率フレームワーク",
           "desc": "4対6の比率フレームワーク。",
           "p1": "$635",
@@ -112,8 +112,8 @@
           ]
         },
         {
-          "id": "—",
-          "nameEN": "V04 (5:5)",
+          "id": "X01-E V04",
+          "nameEN": "VERTICALV REFORMER 04 (5:5)",
           "nameJP": "50/50 折りたたみフレーム",
           "desc": "50/50 折りたたみフレーム。省スペース収納可能。",
           "p1": "$635",
@@ -133,7 +133,7 @@
           ]
         },
         {
-          "id": "COMPACT",
+          "id": "X01-F",
           "nameEN": "COMPACT REFOMER",
           "nameJP": "",
           "desc": "",
