@@ -141,8 +141,8 @@
       "products": [
         {
           "id": "X02-A",
-          "nameEN": "HALF TOWER REFORMER",
-          "nameJP": "ハーフタワーリフォーマー",
+          "nameEN": "HALF TOWER REFORMER X02-A",
+          "nameJP": "HALF TOWER REFORMER X02-A",
           "desc": "リフォーマー＋ハーフタワー。メープル材、フルスプリングシステム。",
           "p1": "$1,154",
           "size": "2280×720×1850mm",
@@ -161,8 +161,8 @@
         },
         {
           "id": "X02-B",
-          "nameEN": "FOLDING HALF TOWER",
-          "nameJP": "折りたたみ式タワー付きリフォーマー",
+          "nameEN": "HALF TOWER X02-B",
+          "nameJP": "HALF TOWER X02-B",
           "desc": "折りたたみ式タワー付きリフォーマー。省スペース設計。",
           "p1": "$1,050",
           "size": "2280×690×1850mm",
